@@ -1,0 +1,7 @@
+C:\Users\three\source\repos\Nunn-assignment4Dealership\Nunn-assignment4Dealership\bin\Debug\Nunn-assignment4Dealership.exe.config
+C:\Users\three\source\repos\Nunn-assignment4Dealership\Nunn-assignment4Dealership\bin\Debug\Nunn-assignment4Dealership.exe
+C:\Users\three\source\repos\Nunn-assignment4Dealership\Nunn-assignment4Dealership\bin\Debug\Nunn-assignment4Dealership.pdb
+C:\Users\three\source\repos\Nunn-assignment4Dealership\Nunn-assignment4Dealership\obj\Debug\Nunn-assignment4Dealership.csprojAssemblyReference.cache
+C:\Users\three\source\repos\Nunn-assignment4Dealership\Nunn-assignment4Dealership\obj\Debug\Nunn-assignment4Dealership.csproj.CoreCompileInputs.cache
+C:\Users\three\source\repos\Nunn-assignment4Dealership\Nunn-assignment4Dealership\obj\Debug\Nunn-assignment4Dealership.exe
+C:\Users\three\source\repos\Nunn-assignment4Dealership\Nunn-assignment4Dealership\obj\Debug\Nunn-assignment4Dealership.pdb
