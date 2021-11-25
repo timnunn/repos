@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+! -- Developed by Tim Nunn -->
+<head>
+    <meta charset="utf-8"/>
+</head>
+<style>
+
+</style>
+<html>
+
+</html>
+
+<script>
+    function computerPlay() {
+    let action = Math.floor(Math.random() * 3) + 1;
+    switch(action) {
+        case 1:
+            return "Rock";
+        case 2:
+            return "Paper";
+        case 3:
+            return "Scissors";
+        default: 
+            console.log('Oops, something went wrong! Action = ${action}');
+        }   
+    }
+
+    function playRound(playerSelection, computerSelection) {
+        let resultItem = document.createElement('li');
+
+        if(playerSelection == computerSelection) {
+            resultItem.textContent = "It's a Draw"
+        }
+    }
+</script>
