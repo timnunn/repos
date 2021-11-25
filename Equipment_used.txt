@@ -1,0 +1,7 @@
+For this assignment I used the following equipment:
+
+Raspberry Pi 4
+HC-SR04 Ultrasonic Sensor
+Breadboard
+Raspberry Pi GPIO Extension Board
+4 male to female jumper wires to connect to board and the HC-SR04
